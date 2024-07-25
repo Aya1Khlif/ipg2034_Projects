@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">test6</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="Role">Role</string>
+    <string-array name="roles_array">
+        <item>Pharmacist</item>
+        <item>worker</item>
+    </string-array>
+
+</resources>

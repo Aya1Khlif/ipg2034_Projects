@@ -1,0 +1,15 @@
+<resources>
+    <string-array name="cabinets_array">
+        <item>All</item>
+        <item>Cabinet 1</item>
+        <item>Cabinet 2</item>
+        <!-- أضف المزيد من الخزانات حسب الحاجة -->
+    </string-array>
+
+    <string-array name="shelves_array">
+        <item>All</item>
+        <item>Shelf 1</item>
+        <item>Shelf 2</item>
+        <!-- أضف المزيد من الرفوف حسب الحاجة -->
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <color name="primaryColor">#6200EE</color>
+    <color name="primaryLightColor">#BB86FC</color>
+    <color name="primaryDarkColor">#3700B3</color>
+    <color name="secondaryColor">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#F5F5F5</color>
+    <color name="buttonColor">#007BFF</color> <!-- لون الأزرار -->
+    <color name="grayBackground">#F0F0F0</color> <!-- لون خلفية الشاشة -->
+    <color name="scheme1_background">#FFFFFF</color>
+    <color name="scheme1_text">#000000</color>
+    <color name="scheme1_button">#2196F3</color>
+    <color name="scheme1_button_text">#FFFFFF</color>
+
+    <!-- Color Scheme 2 -->
+    <color name="scheme2_background">#FFEBEE</color>
+    <color name="scheme2_text">#B71C1C</color>
+    <color name="scheme2_button">#D32F2F</color>
+    <color name="scheme2_button_text">#FFFFFF</color>
+
+    <!-- Color Scheme 3 -->
+    <color name="scheme3_background">#E8F5E9</color>
+    <color name="scheme3_text">#1B5E20</color>
+    <color name="scheme3_button">#388E3C</color>
+    <color name="scheme3_button_text">#FFFFFF</color>
+</resources>
